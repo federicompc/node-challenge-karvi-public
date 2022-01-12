@@ -1,0 +1,36 @@
+{
+  "name": "challenge-karvi",
+  "version": "1.0.0",
+  "description": "Coding Challenge",
+  "main": "server.js",
+  "scripts": {
+    "start:dev": "nodemon server.js",
+    "start": "node server.js",
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/fede-personal/node-challenge-karvi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/fede-personal/node-challenge-karvi/issues"
+  },
+  "homepage": "https://gitlab.com/fede-personal/node-challenge-karvi#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "nock": "^13.2.1",
+    "nodemon": "^2.0.15",
+    "xss": "^1.0.10",
+    "xss-clean": "^0.1.1"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7",
+    "supertest": "^6.1.6"
+  }
+}

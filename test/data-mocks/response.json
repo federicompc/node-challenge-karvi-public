@@ -1,0 +1,58 @@
+[
+  {
+    "id": 333128,
+    "city": "Campinas",
+    "state": "SP",
+    "year": "2021/2022",
+    "brand": "FIAT",
+    "model": "MOBI",
+    "version": "Easy 1.0 Fire Flex 4p",
+    "price": 51990,
+    "mileage": 1600,
+    "image": "https://s3.autogestor.net/5677/vehicles/1018116/photos/qulV5hai34GW1OgbJvAhV8K84nJTOdMv.jpg",
+    "certificate": false,
+    "promoted": false
+  },
+  {
+    "id": 330964,
+    "city": "São Bernardo do Campo",
+    "state": "SP",
+    "year": "2021/2021",
+    "brand": "VOLKSWAGEN",
+    "model": "POLO",
+    "version": "1.0 MPI TOTAL FLEX MANUAL",
+    "price": 68997,
+    "mileage": 0,
+    "image": "https://loja-conectada.s3-sa-east-1.amazonaws.com/fotos/445/135355-volkswagen-polo-20210705171613057850.jpg",
+    "certificate": false,
+    "promoted": false
+  },
+  {
+    "id": 340779,
+    "city": "São Bernardo do Campo",
+    "state": "SP",
+    "year": "2021/2022",
+    "brand": "HYUNDAI",
+    "model": "HB20",
+    "version": "1.0 12V FLEX VISION MANUAL",
+    "price": 69990,
+    "mileage": 0,
+    "image": "https://loja-conectada.s3.sa-east-1.amazonaws.com/fotos/496/151881-hyundai-hb20-20211023115738514291.jpeg",
+    "certificate": false,
+    "promoted": false
+  },
+  {
+    "id": 331884,
+    "city": "Santo André",
+    "state": "SP",
+    "year": "2021/2022",
+    "brand": "VOLKSWAGEN",
+    "model": "NIVUS",
+    "version": "1.0 200 TSI TOTAL FLEX COMFORTLINE AUTOMÁTICO",
+    "price": 104990,
+    "mileage": 0,
+    "image": "https://loja-conectada.s3.sa-east-1.amazonaws.com/fotos/450/149938-volkswagen-nivus-20211013155029931948.jpg",
+    "certificate": false,
+    "promoted": false
+  }
+]
